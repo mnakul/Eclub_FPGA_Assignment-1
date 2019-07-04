@@ -75,14 +75,6 @@ module qft_test;
 		in_i1 = 0;
 		in_i2 = 0;
 		in_i3 = 0;
-		out_r0 = 0;
-		out_r1 = 0;
-		out_r2 = 0;
-		out_r3 = 0;
-		out_i0 = 0;
-		out_i1 = 0;
-		out_i2 = 0;
-		out_i3 = 0;
 
 		// Wait 100 ns for global reset to finish
 		#100;
